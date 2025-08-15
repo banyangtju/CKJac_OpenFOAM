@@ -1,7 +1,0 @@
-ODESolvers/ODESolver/ODESolver.C
-ODESolvers/ODESolver/ODESolverNew.C
-
-ODESolvers/seulex_KLU/seulex_KLU.C
-ODESolvers/seulex_LAPACK/seulex_LAPACK.C
-
-LIB = $(FOAM_LIBBIN)/libODE_seulex_LAPACK_seulex_KLU
