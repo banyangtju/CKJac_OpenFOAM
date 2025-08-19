@@ -8,6 +8,7 @@
 ```
 cd tutorials/chemFoam/CH4Air_GRIMech3.0/constant/chemkin/ckinterp/
 make clean;make
+# replace files (chem.inp and therm.dat) with your mechanism
 ./ckinterp
 cp -r ./chem.bin ../
 ./JAC
