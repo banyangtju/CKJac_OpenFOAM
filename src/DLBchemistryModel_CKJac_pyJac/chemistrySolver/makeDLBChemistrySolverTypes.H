@@ -28,7 +28,6 @@ License
 #include "LoadBalancedChemistryModel.H"
 #include "LoadBalanced_pyJacChemistryModel.H"
 #include "LoadBalanced_CKJacChemistryModel.H"
-#include "LoadBalanced_CKomegaChemistryModel.H"
 
 #include "noChemistrySolver.H"
 #include "EulerImplicit.H"
